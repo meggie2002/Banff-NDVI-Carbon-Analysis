@@ -1,0 +1,10 @@
+rasterio==1.4.3
+numpy>=1.24
+matplotlib>=3.7
+affine>=2.4.0
+cligj>=0.7.2
+click>=8.0
+click-plugins>=1.1.1.2
+pyparsing>=3.0
+attrs>=23.0
+certifi>=2023.0
